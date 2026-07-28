@@ -1,0 +1,1 @@
+specs ({name sanitizer-rs, include (docs/spec/**/*.md), impls ({name main, languages (@rust), include ("src/**/*.rs" "tests/**/*.rs" "examples/**/*.rs" crates/**/*.rs), exclude (target/**)})})

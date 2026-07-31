@@ -1,7 +1,7 @@
 //! Rust implementation of the W3C Sanitizer API.
 //!
-//! The canonical specification is vendored under `sanitizer-api/` and the
-//! requirements tracked by this crate are in `docs/spec/spec.md`.
+//! The canonical specification is <https://github.com/WICG/sanitizer-api>
+//! and the requirements tracked by this crate are in `docs/spec/spec.md`.
 //!
 //! # Scope
 //!
